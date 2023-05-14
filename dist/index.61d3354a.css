@@ -70,7 +70,7 @@ a {
   color: red;
   padding: 2px 4px;
   font-weight: bold;
-  animation: hazard 1s infinite;
+  animation: 1s infinite hazard;
 }
 
 hr, .no-hazard, .is-hazard {
