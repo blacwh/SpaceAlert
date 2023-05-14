@@ -1,6 +1,7 @@
 # SpaceAlert
 A trial page for learning web dev tools chain.
 Is there any danger for our Earth? Check it out.
+Deployed on Vercel https://space-alert.vercel.app/
 
 ```
 npm install
